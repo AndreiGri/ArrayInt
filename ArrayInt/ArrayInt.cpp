@@ -19,7 +19,6 @@ int main()
         }
         k++;
     }
-    cout << ar[n];
     system("pause > nul");
     return 0;
 }
